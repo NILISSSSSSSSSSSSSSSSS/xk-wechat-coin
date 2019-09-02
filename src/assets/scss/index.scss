@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+}
+
+body,
+dl, dt, dd, ul, ol, li,
+h1, h2, h3, h4, h5, h6,
+pre, code, form, fieldset, legend, input, textarea,
+p, blockquote, th, td, button,
+article, aside, details, figcaption, figure, footer, header, menu, nav, section {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: normal;
+}
+
+//.displayFlex{
+//    display: flex;
+//}
+//.flexDirectionColumn{
+//    flex-direction: column;
+//}
+//.flexDirectionRow{
+//     flex-direction: row;
+// }
+//.flexDirectionRow{
+//    flex-direction: row;
+//}
+.solidbottom1px {
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #F1F1F1;
+    //border-bottom-color: red;
+}
+.marginBottom18{
+    margin-bottom: 18px;
+}
+
